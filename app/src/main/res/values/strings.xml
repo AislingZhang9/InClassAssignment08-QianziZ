@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InClassAssignment08-QianziZ</string>
+    <string name="key">Key!</string>
+    <string name="type_key_here">Type key here</string>
+    <string name="value">Value!</string>
+    <string name="type_value_here">Type value here</string>
+    <string name="write_to_cloud">Write to cloud</string>
+    <string name="read_from_cloud">Read from cloud</string>
+</resources>
